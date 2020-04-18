@@ -1,5 +1,5 @@
 <?php
-namespace Laravel\ImageOptimizer;
+namespace MdMaruf\ImageOptimizer;
 use File;
 class ImageOptimizer 
 {

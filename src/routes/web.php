@@ -1,5 +1,5 @@
 <?php
-use Laravel\ImageOptimizer\ImageOptimizer;
+use MdMaruf\ImageOptimizer\ImageOptimizer;
 
 
 Route::get('/checkopti', function() {

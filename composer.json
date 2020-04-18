@@ -1,5 +1,5 @@
 {
-    "name": "laravel/imageoptimizer",
+    "name": "MdMaruf/imageoptimizer",
     "description": "this package will optimize your image",
     "type": "library",
     "license": "MIT",
