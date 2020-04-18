@@ -9,18 +9,6 @@
             "email": "mdmaruf782@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "MdMaruf\\ImageOptimizer\\": "src/"
-        }
-    },
     "minimum-stability": "stable",
-    "extra": {
-        "laravel": {
-            "providers": [
-                "MdMaruf\\ImageOptimizer\\LaravelimageOptimizerServiceProvider"
-            ]
-            
-        }
-    }
+    "require": {}
 }
