@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MdMaruf\\ImageOptimizer\\LaravelimageOptimizerServiceProvider"
+            ]
+           
+        }
+    }
 }
