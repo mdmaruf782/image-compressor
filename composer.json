@@ -1,0 +1,14 @@
+{
+    "name": "laravel/imageoptimizer",
+    "description": "this package will optimize your image",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mdmaruf",
+            "email": "mdmaruf782@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
