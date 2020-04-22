@@ -14,8 +14,8 @@ class LaravelimageOptimizerServiceProvider extends ServiceProvider
 
 	public function register()
 	{
-		$loader = AliasLoader::getInstance();
-		$loader->alias('ImageOptimizer', 'ImageOptimizer::class');
+		//$loader = AliasLoader::getInstance();
+		//$loader->alias('ImageOptimizer', 'ImageOptimizer::class');
 	}
 }
 

@@ -13,14 +13,14 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Mdmaruf\\Laravelimageoptimizer\\": "src/"
+            "Mdmaruf\\laravelimageoptimizer\\": "src/"
         }
     },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
-                "Mdmaruf\\Laravelimageoptimizer\\LaravelimageOptimizerServiceProvider"
+                "Mdmaruf\\laravelimageoptimizer\\LaravelimageOptimizerServiceProvider"
             ]
 
         }
