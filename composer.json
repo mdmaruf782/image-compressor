@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mdmaruf\\laravelimageoptimizer\\LaravelimageOptimizerServiceProvider"
+                "Mdmaruf\\ImageOptimizer\\LaravelimageOptimizerServiceProvider"
             ]
 
         }
