@@ -16,7 +16,7 @@
             "Mdmaruf\\laravelimageoptimizer\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+   
     "extra": {
         "laravel": {
             "providers": [
