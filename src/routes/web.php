@@ -1,8 +1,8 @@
 <?php
-use MdMaruf\ImageOptimizer\ImageOptimizer;
+use Mdmaruf\ImageOptimizer\ImageOptimizer;
 
 
-Route::get('/checkopti', function() {
-	
+Route::get('/test', function() {
+	//return "ok";
    return ImageOptimizer::optimize('uploads/2.png',9,false);
 });

@@ -1,5 +1,5 @@
 <?php
-namespace MdMaruf\ImageOptimizer;
+namespace Mdmaruf\ImageOptimizer;
 use File;
 class ImageOptimizer 
 {
@@ -10,8 +10,7 @@ class ImageOptimizer
 
 	public static function optimize($fileurl,$compress = 0)
 	{
-		
-			
+					
 			$arr= explode('/', $fileurl);
 			$path=str_replace(end($arr), '', $arr);
 			$mainpath= implode("/", $path);

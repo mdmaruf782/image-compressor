@@ -1,5 +1,5 @@
 <?php
-namespace MdMaruf\ImageOptimizer;
+namespace Mdmaruf\ImageOptimizer;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 class LaravelimageOptimizerServiceProvider extends ServiceProvider

@@ -10,5 +10,19 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MdMaruf\\Laravelimageoptimizer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MdMaruf\\Laravelimageoptimizer\\LaravelimageOptimizerServiceProvider"
+            ]
+
+        }
+    }
 }
